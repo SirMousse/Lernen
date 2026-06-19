@@ -1,0 +1,17 @@
+Projektname:
+Legacy Tree
+
+Idee:
+Ein Familienstammbaum der Erinnerungen.
+
+Funktionen:
+- Personen hinzufügen
+- Geschichten speichern
+- Bilder verwalten
+- Zeitstrahl anzeigen
+
+Besonderheit:
+Nicht nur Verwandtschaft, sondern Erinnerungen werden dargestellt.
+
+Portfolio-Wert:
+Sehr emotionales und ungewöhnliches Projekt.

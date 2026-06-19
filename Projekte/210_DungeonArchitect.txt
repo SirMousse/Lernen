@@ -1,0 +1,17 @@
+Projektname:
+Dungeon Architect
+
+Idee:
+Automatische Generierung von Dungeons für Pen-and-Paper-Spieler.
+
+Funktionen:
+- Räume generieren
+- Monster platzieren
+- Schätze verteilen
+- Karten exportieren
+
+Besonderheit:
+Komplette Abenteuer entstehen automatisch.
+
+Portfolio-Wert:
+Zeigt Algorithmen und Spieleentwicklung.

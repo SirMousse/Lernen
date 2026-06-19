@@ -1,0 +1,17 @@
+Projektname:
+WorldBuilder
+
+Idee:
+Fantasy-Welten automatisch generieren.
+
+Funktionen:
+- Kontinente erstellen
+- Städte generieren
+- Kulturen erzeugen
+- Karten anzeigen
+
+Besonderheit:
+Jede Welt ist einzigartig.
+
+Portfolio-Wert:
+Zeigt Algorithmen und Generierungstechniken.

@@ -1,0 +1,30 @@
+Projektname:
+StudyPilot – Intelligenter Lernplaner
+
+Problem:
+Viele Lernende wissen nicht, wie sie große Stoffmengen organisieren sollen.
+
+Lösung:
+Automatische Erstellung individueller Lernpläne.
+
+Hauptfunktionen:
+- Prüfungsdatum festlegen
+- Lernumfang definieren
+- Tagesaufgaben generieren
+- Wiederholungszyklen berechnen
+- Fortschritt verfolgen
+
+Erweiterungen:
+- Kalenderintegration
+- Erinnerungen
+- PDF-Lernplan
+
+Technologien:
+- Java
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Zeigt Algorithmen und Planungslogik.

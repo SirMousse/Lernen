@@ -1,0 +1,37 @@
+Projektname:
+Chronos
+
+Beschreibung:
+Chronos ist eine Anwendung, die das gesamte Leben eines Nutzers als interaktive Zeitreise darstellt. Nutzer können Erinnerungen, Fotos, Ereignisse, Erfolge, Reisen und wichtige Momente eintragen. Die Anwendung erstellt daraus eine visuelle Lebenskarte.
+
+Problem:
+Viele Erinnerungen verschwinden mit der Zeit oder sind auf verschiedene Plattformen verteilt.
+
+Lösung:
+Eine zentrale Plattform, die das eigene Leben dokumentiert und visualisiert.
+
+Funktionen:
+- Lebensereignisse anlegen
+- Fotos und Dokumente hochladen
+- Ereignisse kategorisieren
+- Interaktive Zeitleiste
+- Kartenansicht für Reisen
+- Suchfunktion
+- Jahresrückblicke
+- Statistiken über das eigene Leben
+
+Besondere Features:
+- "An diesem Tag vor 5 Jahren"
+- Automatische Jahreszusammenfassung
+- Export als digitales Lebensbuch
+
+Technologien:
+- Java Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Leaflet für Karten
+
+Portfolio-Wert:
+Zeigt Dateiverwaltung, Visualisierung, APIs und komplexe Datenmodelle.

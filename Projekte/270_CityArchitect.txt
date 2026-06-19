@@ -1,0 +1,31 @@
+Projektname:
+City Architect
+
+Beschreibung:
+Simulation einer eigenen Stadt.
+
+Problem:
+Städteplanung ist komplex und für viele Menschen schwer nachvollziehbar.
+
+Lösung:
+Eine Anwendung, die Städte simuliert und deren Entwicklung darstellt.
+
+Funktionen:
+- Gebäude platzieren
+- Einwohner verwalten
+- Wirtschaft simulieren
+- Verkehrsaufkommen berechnen
+- Umweltwerte anzeigen
+
+Besondere Features:
+- Tages- und Jahreszyklen
+- Naturkatastrophen
+- Wirtschaftliche Entwicklungen
+
+Technologien:
+- Java
+- JavaFX oder Weboberfläche
+- MySQL
+
+Portfolio-Wert:
+Zeigt Simulationen, Algorithmen und komplexe Datenstrukturen.

@@ -1,0 +1,18 @@
+Projektname:
+MemoryVault
+
+Idee:
+Nutzer erstellen digitale Zeitkapseln für ihr zukünftiges Ich.
+
+Funktionen:
+- Briefe an die Zukunft schreiben
+- Bilder und Videos speichern
+- Öffnungsdatum festlegen
+- Erinnerungen erhalten
+- Zeitkapseln verschlüsseln
+
+Besonderheit:
+Nach Ablauf der Zeit wird die Kapsel automatisch geöffnet.
+
+Portfolio-Wert:
+Zeigt Verschlüsselung, Dateiverwaltung und Terminlogik.

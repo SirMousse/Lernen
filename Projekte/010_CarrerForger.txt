@@ -1,0 +1,27 @@
+Projektname:
+CareerForge – Intelligenter Bewerbungsmanager
+
+Problem:
+Viele Bewerber verlieren den Überblick über ihre Bewerbungen.
+
+Lösung:
+Eine Webanwendung zur Verwaltung von Bewerbungen mit automatischer Analyse von Stellenanzeigen.
+
+Hauptfunktionen:
+- Bewerbungen anlegen
+- Firmen verwalten
+- Interview-Termine speichern
+- Dokumentenverwaltung
+- Skill-Matching zwischen Lebenslauf und Stellenanzeige
+- Bewerbungsstatistiken
+- Dashboard mit Auswertungen
+
+Technologien:
+- Java Spring Boot oder PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Zeigt Datenbanken, Authentifizierung, APIs und Datenanalyse.

@@ -1,0 +1,29 @@
+Projektname:
+LessonCraft – Unterrichtsplaner
+
+Problem:
+Dozenten verbringen viel Zeit mit Unterrichtsplanung.
+
+Lösung:
+Digitale Plattform zur Planung von Unterrichtseinheiten.
+
+Hauptfunktionen:
+- Unterrichtseinheiten erstellen
+- Lernziele definieren
+- Materialien verwalten
+- Zeitplanung
+- Aufgabenverwaltung
+
+Erweiterungen:
+- PDF-Unterrichtsskripte
+- KI-Unterstützung
+
+Technologien:
+- Java
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Besonders interessant für Bildungsunternehmen.

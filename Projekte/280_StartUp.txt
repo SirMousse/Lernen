@@ -1,0 +1,31 @@
+Projektname:
+Startup Simulator
+
+Beschreibung:
+Der Nutzer gründet ein virtuelles Unternehmen und trifft Entscheidungen.
+
+Problem:
+Unternehmensführung wird selten praktisch vermittelt.
+
+Lösung:
+Eine realitätsnahe Wirtschaftssimulation.
+
+Funktionen:
+- Unternehmen gründen
+- Mitarbeiter einstellen
+- Produkte entwickeln
+- Marketingkampagnen planen
+- Finanzen verwalten
+
+Besondere Features:
+- Konkurrenzunternehmen
+- Marktveränderungen
+- Investorenrunden
+
+Technologien:
+- Java
+- Spring Boot
+- MySQL
+
+Portfolio-Wert:
+Zeigt Businesslogik und komplexe Berechnungen.

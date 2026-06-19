@@ -1,0 +1,30 @@
+Projektname:
+Digital Zoo Manager
+
+Beschreibung:
+Verwaltung eines virtuellen Zoos.
+
+Problem:
+Managementspiele sind beliebt und zeigen komplexe Logik.
+
+Lösung:
+Der Nutzer baut und verwaltet einen Zoo.
+
+Funktionen:
+- Gehege bauen
+- Tiere kaufen
+- Besucher verwalten
+- Einnahmen berechnen
+- Tiergesundheit überwachen
+
+Besondere Features:
+- Tierzucht
+- Ereignisse
+- Wettereffekte
+
+Technologien:
+- Java
+- JavaFX oder Web
+
+Portfolio-Wert:
+Zeigt Simulation, Verwaltung und Ressourcenmanagement.

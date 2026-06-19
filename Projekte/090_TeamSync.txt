@@ -1,0 +1,29 @@
+Projektname:
+TeamSync
+
+Problem:
+Kleine Teams verlieren den Überblick über Aufgaben.
+
+Lösung:
+Projektmanagement-Tool für kleine Teams.
+
+Hauptfunktionen:
+- Kanban-Board
+- Aufgabenverwaltung
+- Kommentare
+- Deadlines
+- Benachrichtigungen
+
+Erweiterungen:
+- Zeiterfassung
+- Projektstatistiken
+
+Technologien:
+- Java Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Zeigt Business-Anwendungen und Teamfunktionen.

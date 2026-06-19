@@ -1,0 +1,30 @@
+Projektname:
+HabitHero
+
+Problem:
+Gewohnheiten aufzubauen fällt vielen Menschen schwer.
+
+Lösung:
+Gamifizierter Gewohnheitstracker.
+
+Hauptfunktionen:
+- Aufgaben erstellen
+- Erfahrungspunkte sammeln
+- Levelsystem
+- Erfolge freischalten
+- Fortschrittsdiagramme
+
+Erweiterungen:
+- Haustiere
+- Ausrüstung
+- Bosskämpfe
+
+Technologien:
+- Java/PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Demonstriert Gamification und Datenmodellierung.

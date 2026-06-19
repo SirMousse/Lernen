@@ -1,0 +1,30 @@
+Projektname:
+PetCare Companion
+
+Problem:
+Tierhalter vergessen Termine, Medikamente oder Impfungen.
+
+Lösung:
+Digitale Haustierverwaltung.
+
+Hauptfunktionen:
+- Tierprofile
+- Impfpass
+- Medikamentenverwaltung
+- Tierarzttermine
+- Gewichtsverlauf
+- Erinnerungen
+
+Erweiterungen:
+- PDF-Gesundheitsakte
+- Mehrere Haustiere verwalten
+
+Technologien:
+- Java/PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Zeigt CRUD-Anwendungen mit realem Nutzen.

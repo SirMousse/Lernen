@@ -1,0 +1,17 @@
+Projektname:
+Emotion Journal
+
+Idee:
+Tagebuch mit Emotionsanalyse.
+
+Funktionen:
+- Einträge schreiben
+- Stimmung erfassen
+- Trends erkennen
+- Auswertungen anzeigen
+
+Besonderheit:
+Emotionale Entwicklung wird als Karte dargestellt.
+
+Portfolio-Wert:
+Moderne Datenanalyse mit persönlichem Nutzen.

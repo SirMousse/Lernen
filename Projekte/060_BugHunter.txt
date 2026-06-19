@@ -1,0 +1,28 @@
+Projektname:
+BugHunter Academy
+
+Problem:
+Viele Programmieranfänger lernen Debugging zu spät.
+
+Lösung:
+Spielerische Plattform zum Finden von Fehlern.
+
+Hauptfunktionen:
+- Fehlerhafte Programme analysieren
+- Hinweise freischalten
+- Schwierigkeitsgrade
+- Punktesystem
+- Fortschrittsanzeige
+
+Erweiterungen:
+- Eigene Aufgaben erstellen
+- Ranglisten
+
+Technologien:
+- Java
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Zeigt Verständnis für Codequalität und Fehlersuche.

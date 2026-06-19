@@ -1,0 +1,17 @@
+Projektname:
+DreamMapper
+
+Idee:
+Traumtagebuch mit Mustererkennung.
+
+Funktionen:
+- Träume erfassen
+- Kategorien erkennen
+- Wiederkehrende Personen analysieren
+- Emotionen auswerten
+
+Besonderheit:
+Visualisierung des persönlichen Traumuniversums.
+
+Portfolio-Wert:
+Sehr ungewöhnliches Analyseprojekt.

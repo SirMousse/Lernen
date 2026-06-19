@@ -1,0 +1,17 @@
+Projektname:
+The Last Message
+
+Idee:
+Interaktive Geschichte, die sich anhand der Entscheidungen des Nutzers entwickelt.
+
+Funktionen:
+- Dialogsystem
+- Multiple Enden
+- Inventar
+- Hinweise sammeln
+
+Besonderheit:
+Die Geschichte wird teilweise zufällig generiert.
+
+Portfolio-Wert:
+Zeigt Story-Systeme und State-Management.

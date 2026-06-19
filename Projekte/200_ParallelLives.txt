@@ -1,0 +1,16 @@
+Projektname:
+Parallel Lives
+
+Idee:
+Was wäre passiert, wenn man andere Entscheidungen getroffen hätte?
+
+Funktionen:
+- Lebensereignisse eingeben
+- Alternative Verläufe simulieren
+- Zeitlinien vergleichen
+
+Besonderheit:
+Mehrere Versionen desselben Lebens werden dargestellt.
+
+Portfolio-Wert:
+Extrem ungewöhnliche Visualisierung.

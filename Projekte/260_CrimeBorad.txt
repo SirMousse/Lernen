@@ -1,0 +1,33 @@
+Projektname:
+Crime Board
+
+Beschreibung:
+Eine Plattform im Stil von Krimiserien, auf der Nutzer Fälle lösen können.
+
+Problem:
+Logisches Denken wird selten spielerisch trainiert.
+
+Lösung:
+Ein digitales Ermittlungsboard mit Verdächtigen, Hinweisen und Beweismitteln.
+
+Funktionen:
+- Fälle erstellen
+- Verdächtige verwalten
+- Beweise sammeln
+- Beziehungen zwischen Personen darstellen
+- Notizen erstellen
+- Täter bestimmen
+
+Besondere Features:
+- Verbindungsnetz wie in echten Ermittlungsbüros
+- Zufällig generierte Fälle
+- Mehrere Schwierigkeitsstufen
+
+Technologien:
+- Java
+- MySQL
+- JavaScript
+- Canvas API
+
+Portfolio-Wert:
+Sehr ungewöhnlich und visuell beeindruckend.

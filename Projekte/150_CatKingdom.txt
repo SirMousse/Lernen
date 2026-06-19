@@ -1,0 +1,17 @@
+Projektname:
+Cat Kingdom Manager
+
+Idee:
+Managementspiel eines Katzenkönigreichs.
+
+Funktionen:
+- Katzen verwalten
+- Ressourcen sammeln
+- Gebäude bauen
+- Missionen erfüllen
+
+Besonderheit:
+Alle Bewohner sind Katzen mit individuellen Eigenschaften.
+
+Portfolio-Wert:
+Zeigt Simulationen und komplexe Logik.

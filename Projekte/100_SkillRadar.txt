@@ -1,0 +1,30 @@
+Projektname:
+SkillRadar
+
+Problem:
+Viele Entwickler wissen nicht, welche Fähigkeiten ihnen für bestimmte Berufe fehlen.
+
+Lösung:
+Analyseplattform für Karrierepfade und Skill-Gaps.
+
+Hauptfunktionen:
+- Beruf auswählen
+- Skills erfassen
+- Kompetenzlücken erkennen
+- Lernempfehlungen generieren
+- Fortschritt verfolgen
+
+Erweiterungen:
+- Stellenanzeigen analysieren
+- Skill-Ranking
+- Karrierepfade visualisieren
+
+Technologien:
+- Java
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+Portfolio-Wert:
+Wirkt wie ein echtes SaaS-Produkt und hebt sich stark von Standardprojekten ab.

@@ -1,0 +1,17 @@
+Projektname:
+StoryWeaver
+
+Idee:
+Interaktiver Roman-Generator.
+
+Funktionen:
+- Figuren erstellen
+- Welten definieren
+- Handlungsstränge generieren
+- Kapitel verwalten
+
+Besonderheit:
+Autoren können ihre Geschichten visuell planen.
+
+Portfolio-Wert:
+Einzigartig für kreative Branchen.

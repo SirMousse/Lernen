@@ -1,0 +1,17 @@
+Projektname:
+LifeSimulator
+
+Idee:
+Eine Simulation, die zeigt, wie sich Entscheidungen langfristig auswirken.
+
+Funktionen:
+- Karrierepfade simulieren
+- Finanzielle Entwicklung berechnen
+- Lernzeit analysieren
+- Gesundheitsgewohnheiten simulieren
+
+Besonderheit:
+Der Nutzer sieht verschiedene Zukunftsszenarien.
+
+Portfolio-Wert:
+Zeigt komplexe Berechnungen und Datenvisualisierung.

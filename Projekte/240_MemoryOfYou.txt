@@ -1,0 +1,17 @@
+Projektname:
+Museum of You
+
+Idee:
+Das Leben eines Menschen als virtuelles Museum.
+
+Funktionen:
+- Erinnerungen hochladen
+- Räume erstellen
+- Zeitstrahl visualisieren
+- Erfolge sammeln
+
+Besonderheit:
+Jeder Nutzer erhält sein eigenes digitales Museum.
+
+Portfolio-Wert:
+Sehr originell und visuell beeindruckend.

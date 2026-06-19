@@ -1,0 +1,28 @@
+Projektname:
+Escape Dev
+
+Problem:
+Viele Lernplattformen sind langweilig.
+
+Lösung:
+Browserbasierter Escape Room für Entwickler.
+
+Hauptfunktionen:
+- Programmier-Rätsel
+- Story-Modus
+- Mehrere Räume
+- Hinweissystem
+- Speicherfunktion
+
+Erweiterungen:
+- Koop-Modus
+- Level-Editor
+
+Technologien:
+- HTML
+- CSS
+- JavaScript
+- Java Backend
+
+Portfolio-Wert:
+Sehr kreativ und ungewöhnlich.

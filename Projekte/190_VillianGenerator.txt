@@ -1,0 +1,17 @@
+Projektname:
+Villain Generator
+
+Idee:
+Generator für glaubwürdige Bösewichte.
+
+Funktionen:
+- Hintergrundgeschichte erzeugen
+- Motivation generieren
+- Beziehungen erstellen
+- Schwächen entwickeln
+
+Besonderheit:
+Jeder Bösewicht fühlt sich wie eine echte Romanfigur an.
+
+Portfolio-Wert:
+Kreativ und zeigt Generierungsalgorithmen.

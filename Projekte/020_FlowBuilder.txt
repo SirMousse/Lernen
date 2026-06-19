@@ -1,0 +1,29 @@
+Projektname:
+FlowBuilder – Programmablaufplan-Generator
+
+Problem:
+Viele Lernende haben Schwierigkeiten, Programmabläufe zu visualisieren.
+
+Lösung:
+Drag-and-Drop-Editor zur Erstellung von Programmablaufplänen.
+
+Hauptfunktionen:
+- Elemente ziehen und verbinden
+- Start-, End-, Entscheidungs- und Schleifenblöcke
+- Fehlerprüfung
+- Export als PDF oder Bild
+- Generierung von Pseudocode
+
+Erweiterungen:
+- Java-Code generieren
+- Python-Code generieren
+
+Technologien:
+- HTML
+- CSS
+- JavaScript
+- Canvas oder SVG
+- Java/PHP Backend
+
+Portfolio-Wert:
+Zeigt komplexe Frontend-Logik und Softwaredesign.
